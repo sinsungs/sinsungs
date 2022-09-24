@@ -2,7 +2,7 @@
 
 <h2> My tech stack 📚 </h2>
 
-![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=%ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=%ffffff&color=%ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-43853d?style=for-the-badge&logo=Spring&logoColor=white)
