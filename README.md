@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/-Native-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
