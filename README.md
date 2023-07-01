@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react)
+![ReactNative](https://img.shields.io/badge/-Native-222222?style=for-the-badge&logo=react)
 
 
 
