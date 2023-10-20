@@ -12,6 +12,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css3)
 
+![Sinsung GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsungs&show_icons=true&theme=tokyonight)  
 
 
 <!--
