@@ -5,7 +5,7 @@
 ### Hi there 👋
 즐겁게 코딩하는 개발자가 되고 싶습니다😊
 <br><br>
-### :computer: Tech Stack :computer:
+### :computer: Stack :computer:
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
