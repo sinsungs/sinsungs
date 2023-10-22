@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> ☾⋆⁺₊ stack ⋆⁺₊⋆☾ </h2>
+<div align=center>
 
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-43853d?style=for-the-badge&logo=Spring&logoColor=white)
@@ -23,6 +23,8 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=white)
+
+</div>
 
 <!--
 **sinsungs/sinsungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
