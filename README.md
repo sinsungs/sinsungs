@@ -3,7 +3,7 @@
 <div align=center>
   
 ### Hi there 👋
-즐겁게 코딩하는 개발자가 되고 싶습니다😊
+꾸준히 성장하는 개발자가 되고 싶습니다😊
 <br><br>
 ### :computer: Stack :computer:
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
